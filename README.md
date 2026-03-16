@@ -68,13 +68,13 @@
 ## 🌐 Connect With Me
 
 💼 **LinkedIn**
-https://linkedin.com/in/thanvika-gali
+https://www.linkedin.com/in/gali-thanvika/
 
 📧 **Email**
 mailto:thanvikagali28@gmail.com
 
 🌍 **Portfolio**
-https://thanvika-portfolio.vercel.app
+https://portfolio-gold-six-24.vercel.app/
 
 
 ---
