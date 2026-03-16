@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Thanvika</h1>
 
@@ -69,9 +67,15 @@
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn
-📧 Email
-🌍 Portfolio
+💼 **LinkedIn**
+https://linkedin.com/in/thanvika-gali
+
+📧 **Email**
+mailto:thanvikagali28@gmail.com
+
+🌍 **Portfolio**
+https://thanvika-portfolio.vercel.app
+
 
 ---
 
