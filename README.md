@@ -47,11 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Thanvika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanvika-gali\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -59,11 +54,6 @@
 
 ---
 
-## 🧠 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanvika-gali\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
