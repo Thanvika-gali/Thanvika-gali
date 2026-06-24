@@ -69,7 +69,7 @@ https://portfolio-gold-six-24.vercel.app/
 
 ---
 
-⭐ *Code • Create • Innovate*
+⭐ 
 
 <!--
 **Thanvika-gali/Thanvika-gali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
